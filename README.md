@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hafsah-R
-- 👀 I’m interested in ...frontend,system analsis,software engeering
-- 🌱 I’m currently learning ...JS libraries
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in frontend,software engeering
+- 🌱 I’m currently learning JS libraries
 - 📫 How to reach me ...Hafsahrizg@gmail.com
 
 <!---
